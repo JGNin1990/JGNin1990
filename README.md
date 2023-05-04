@@ -16,7 +16,7 @@
 
 <br>
 
-- A Front-end developer
+- A Mobile Developer
 - Currently learning MERN by Self
 - I’m currently open for an Intern or a new job opportunity.
 
